@@ -6,7 +6,7 @@
 ### <div align="center">Hello World! I'm Nicolli Dandara!</div>  
   
 
-Systems Analysis and Development student focused on Full Stack Development with Java, Spring Boot, SQL and PostgreSQL. I also work as a Programming and English teacher, and I have a background in theater — a mix of technical work and communication that shapes how I build and explain software.
+Systems Analysis and Development student focused on Full Stack Development with Java, Spring Boot, SQL and PostgreSQL. I also work as a Programming and English teacher, a mix of technical work and communication that shapes how I build and explain software. ☕
 
 <br/>  
 
@@ -16,7 +16,7 @@ Systems Analysis and Development student focused on Full Stack Development with 
 
 
 
-### Frontend  
+### Languages & Tools  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
