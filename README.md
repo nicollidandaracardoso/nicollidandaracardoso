@@ -13,43 +13,62 @@ Sou apaixonada por criar soluções bem estruturadas e por contribuir para o apr
 
 ## Principais Tecnologias
 
-Java
-████████████████████░░░░░░░░░░ 85%
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
 
-Spring Boot
-██████████████████░░░░░░░░░░░░ 90%
+**Java** 85%  
+🟣🟣🟣🟣🟣🟣🟣🟣🟣🟢
 
-PostgreSQL
-█████████████████░░░░░░░░░░░░░ 80%
+</td>
+<td align="center" width="50%">
 
-Android
-███████████████░░░░░░░░░░░░░░░ 75%
+**Spring Boot** 90%  
+🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 
-JavaScript
-████████████░░░░░░░░░░░░░░░░░░ 60%
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**PostgreSQL** 80%  
+🟣🟣🟣🟣🟣🟣🟣🟣🟢🟢
+
+</td>
+<td align="center" width="50%">
+
+**Android** 75%  
+🟣🟣🟣🟣🟣🟣🟣🟢🟢🟢
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 
 ## Projetos em Destaque
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
 
-### Estoque API
-REST API para controle de estoque com Spring Boot 3, PostgreSQL e testes automatizados. Foco em arquitetura limpa e rastreabilidade de movimentações.
+**Estoque API**  
+REST API com Spring Boot 3 e PostgreSQL  
+[Ver Repo](https://github.com/nicollidandaracardoso/estoque-api)
 
-[Ver no GitHub](https://github.com/nicollidandaracardoso/estoque-api) | Java | Spring Boot | PostgreSQL | Docker
+</td>
+<td align="center" width="50%">
 
----
+**FreqMax Android**  
+App Android para gestão de atletas  
+[Ver Repo](https://github.com/nicollidandaracardoso/freqmax-android)
 
-### FreqMax Android
-Aplicativo Android para cadastro de atletas e cálculo de frequência cardíaca máxima com POO e UI nativa.
+</td>
+</tr>
+</table>
 
-[Ver no GitHub](https://github.com/nicollidandaracardoso/freqmax-android) | Java | Android | XML
-
-</div>
-
-<br/>
+<br/>  
 
 
 ## Minhas Skills  
