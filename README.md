@@ -11,7 +11,7 @@ Sou apaixonada por criar soluções bem estruturadas e por contribuir para o apr
 <br/>  
 
 
-## My Skill Set  
+## Minhas Skills  
 <table><tr><td valign="top" width="33%">
 
 
