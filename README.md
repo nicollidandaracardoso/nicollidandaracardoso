@@ -11,6 +11,47 @@ Sou apaixonada por criar soluções bem estruturadas e por contribuir para o apr
 <br/>  
 
 
+## Principais Tecnologias
+
+Java
+████████████████████░░░░░░░░░░ 85%
+
+Spring Boot
+██████████████████░░░░░░░░░░░░ 90%
+
+PostgreSQL
+█████████████████░░░░░░░░░░░░░ 80%
+
+Android
+███████████████░░░░░░░░░░░░░░░ 75%
+
+JavaScript
+████████████░░░░░░░░░░░░░░░░░░ 60%
+
+<br/>
+
+
+## Projetos em Destaque
+
+<div align="center">
+
+### Estoque API
+REST API para controle de estoque com Spring Boot 3, PostgreSQL e testes automatizados. Foco em arquitetura limpa e rastreabilidade de movimentações.
+
+[Ver no GitHub](https://github.com/nicollidandaracardoso/estoque-api) | Java | Spring Boot | PostgreSQL | Docker
+
+---
+
+### FreqMax Android
+Aplicativo Android para cadastro de atletas e cálculo de frequência cardíaca máxima com POO e UI nativa.
+
+[Ver no GitHub](https://github.com/nicollidandaracardoso/freqmax-android) | Java | Android | XML
+
+</div>
+
+<br/>
+
+
 ## Minhas Skills  
 <table><tr><td valign="top" width="33%">
 
