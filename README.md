@@ -6,7 +6,8 @@
 ### <div align="center">Hello World! I'm Nicolli Dandara!</div>  
   
 
-Systems Analysis and Development student focused on Full Stack Development with Java, Spring Boot, SQL and PostgreSQL. I also work as a Programming and English teacher, a mix of technical work and communication that shapes how I build and explain software. ☕
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Full Stack, especializada em Java, Spring Boot, SQL e PostgreSQL. Além da programação, trabalho como professora de Programação e Inglês, o que me permite combinar habilidades técnicas com comunicação clara e didática, qualidades que aplico tanto na construção de software quanto na explicação de conceitos complexos.
+Sou apaixonada por criar soluções bem estruturadas e por contribuir para o aprendizado de outros desenvolvedores, acreditando que bom código é código que comunica.☕
 
 <br/>  
 
