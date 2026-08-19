@@ -1,6 +1,5 @@
 <div align="center">
-<img width="690" height="390" alt="Image" src="https://github.com/user-attachments/assets/96947530-323b-4dae-aa91-0bfcec6f7195" />
-</div>  
+<img width="1200" height="300" alt="Image" src="https://github.com/user-attachments/assets/a49c320b-21d2-4f70-9edb-34880cbc3929" />
   
 
 ### <div align="center">Hello World! I'm Nicolli Dandara!</div>  
