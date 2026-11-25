@@ -2,118 +2,50 @@
 <img width="1200" height="300" alt="Image" src="https://github.com/user-attachments/assets/a49c320b-21d2-4f70-9edb-34880cbc3929" />
   
 
-### <div align="center">Hello World! I'm Nicolli Dandara!</div>  
-  
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Full Stack, especializada em Java, Spring Boot, SQL e PostgreSQL. Além da programação, trabalho como professora de Programação e Inglês, o que me permite combinar habilidades técnicas com comunicação clara e didática, qualidades que aplico tanto na construção de software quanto na explicação de conceitos complexos.
-Sou apaixonada por criar soluções bem estruturadas e por contribuir para o aprendizado de outros desenvolvedores, acreditando que bom código é código que comunica.☕
+# hi, i'm nicolli! ♡
 
-<br/>  
+I'm a software development student and programming instructor from southern Brazil.
 
+I enjoy building things, understanding how they work, and sharing what I learn along the way. I'm particularly interested in back-end development, artificial intelligence, and cloud computing.
 
+### a little about me
 
-## Minhas Skills  
+- studying Systems Analysis and Development at Feevale University
+- teaching programming and English
+- currently learning cloud computing through AWS re/Start
+- interested in the intersection of technology, education, and creativity
+- always curious, always learning
 
-### Linguagens e Tecnologias  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-</div>
+### what i work with
 
-<br/>
+`Java` · `Python` · `Spring Boot` · `FastAPI`  
+`SQL` · `PostgreSQL` · `Docker` · `Git` · `AWS`
 
-### Aprendizado Futuro  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-</div>
+### things i've built
 
-<br/>
-<br/>
+**[Mini ERP](https://github.com/nicollidandaracardoso/mini-erp)**  
+A back-end application for order management, inventory control, and business operations.
 
-## Principais Tecnologias
+**[AI Support Assistant](https://github.com/nicollidandaracardoso/ai-support-assistant)**  
+An AI-powered assistant exploring RAG, semantic search, and knowledge retrieval.
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
+**[Bank Marketing ML](https://github.com/nicollidandaracardoso/bank-marketing-ml)**  
+A machine learning experiment exploring customer behavior and predictive classification.
 
-**Java** 85%  
-████████░░ 
+### currently exploring
 
-</td>
-<td align="center" width="50%">
+- software architecture and back-end engineering
+- applied artificial intelligence
+- cloud infrastructure and AWS
+- building better, more meaningful projects
 
-**Spring Boot** 90%  
-██████████
+### let's connect
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
+[linkedin](https://www.linkedin.com/in/nicollidandara/) · [email](mailto:nicollidandaracardoso@gmail.com)
 
-**PostgreSQL** 80%  
-████████░░
+---
 
-</td>
-<td align="center" width="50%">
-
-**Android** 75%  
-███████░░░
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-
-## Projetos em Destaque
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-
-**Estoque API**  
-REST API com Spring Boot 3 e PostgreSQL  
-[Ver Repo](https://github.com/nicollidandaracardoso/estoque-api)
-
-</td>
-<td align="center" width="50%">
-
-**FreqMax Android**  
-App Android para gestão de atletas  
-[Ver Repo](https://github.com/nicollidandaracardoso/freqmax-android)
-
-</td>
-</tr>
-</table>
-
-<br/> 
-
-
-## Conecte-se comigo 
-<div align="center">
-<a href="https://linkedin.com/in/nicollidandara" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/nicollidandaracardoso" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
 
 <br/>  
