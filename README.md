@@ -5,7 +5,7 @@
 
 # hi, i'm nicolli! ♡
 
-I'm a software development student and programming instructor from southern Brazil.
+I'm a software development student and programming instructor from Brazil.
 
 I enjoy building things, understanding how they work, and sharing what I learn along the way. I'm particularly interested in back-end development, artificial intelligence, and cloud computing.
 
