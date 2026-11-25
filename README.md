@@ -1,7 +1,7 @@
 <div align="center">
 <img width="1200" height="300" alt="Image" src="https://github.com/user-attachments/assets/a49c320b-21d2-4f70-9edb-34880cbc3929" />
 
-# hi, i'm nicolli! ☕
+# ⊹ ࣪ ˖ ໒꒱ hi, i'm nicolli! ⊹ ࣪ ˖ ໒꒱
 
 i'm a software development student and programming teacher from brazil.
 
@@ -10,7 +10,7 @@ mostly interested in back-end development, ai and cloud computing. currently stu
 ### technologies
 
 `java` `python` `spring boot` `fastapi`
-`sql` `postgresql` `docker` `git` `aws`
+`sql` `postgresql` `docker` `git` `aws` (and others!)
 
 ### some of my projects
 
