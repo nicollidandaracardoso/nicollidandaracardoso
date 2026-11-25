@@ -5,7 +5,7 @@
 
 # ⊹ ࣪ ˖ ໒꒱ hi, i'm nicolli! ⊹ ࣪ ˖ ໒꒱
 
-i'm a software development student and programming teacher from brazil.
+i'm a software development student and programming teacher.
 
 mostly interested in back-end development, ai and cloud computing.
 currently studying at feevale university and taking the aws re/start program.
