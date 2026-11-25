@@ -21,4 +21,3 @@ mostly interested in back-end development, ai and cloud computing. currently stu
 ### contact
 
 [linkedin](https://linkedin.com/in/nicollidandara) · [email](mailto:nicollidandaracardoso@gmail.com)
-ishav.dev/" target="_blank">Github Profilinator</a></div>
